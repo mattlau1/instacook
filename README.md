@@ -1,5 +1,13 @@
 # Instacook, a recipe sharing app
 
+# Screenshots
+
+![Screenshot 2](docs/images/cook1.png)
+
+![Screenshot 1](docs/images/cook2.png)
+
+![Screenshot 3](docs/images/cook3.png)
+
 # Tech Stack
 ## Frontend
 - React.js
